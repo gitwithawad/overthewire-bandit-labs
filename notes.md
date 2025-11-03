@@ -19,7 +19,7 @@
 - when using du, which also checks the size of directory, i found out an option called -h or --human-readable which displays sizes in human-readable format
 - I also found out that the grep command is used for filter
   
-- Now I couldn't find out on my own but with research I realised with just using these commands that I mentioned above I can find out the answer:
+- Now I couldn't find out  the password on my own but, with research, I realised with just using these commands that I mentioned above I can find out the answer:
 
   - I used the find command by using the opition size now the way I used it was:
 *find /home/bandit5/inhere -size 1033* and *find /home/bandit5/inhere +size 1033*
