@@ -11,4 +11,7 @@
 
 > level 4 → 5 = 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
 
-> Curent level 5 → 6 = ?
+> level 5 → 6 = HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
+> Check the [**Notes for Level 5 → 6**](https://github.com/gitwithawad/overthewire-bandit-labs/blob/Level-5--%3E-6/notes.md)
+
+> level 6 → 7 = **CHECKPOINT**
